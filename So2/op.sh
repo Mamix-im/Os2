@@ -87,7 +87,7 @@ echo "Product=$product"
 EOF
 
 # 3. Practical 3
-cat << 'EOF' > practical_03_clwc.sh
+cat > 1 file  
 # Practical 3: Count lines, words, and characters in a file
 # Run karne ke liye: sh practical_03_clwc.sh
 
@@ -107,7 +107,7 @@ fi
 EOF
 
 # 4. Practical 4
-cat << 'EOF' > practical_04_commname.sh
+creat 2 cat file1  & file2 saem name 
 # Practical 4: Display names found in both files
 # Run karne ke liye: sh practical_04_commname.sh
 
@@ -121,7 +121,7 @@ grep -Fxf "$file1" "$file2"
 EOF
 
 # 5. Practical 5
-cat << 'EOF' > practical_05_inodescrt.sh
+cat one file > test file for indo number 
 # Practical 5: Find out the inode number of any file
 # Run karne ke liye: sh practical_05_inodescrt.sh
 
@@ -137,7 +137,7 @@ fi
 EOF
 
 # 6. Practical 6
-cat << 'EOF' > practical_06_permissions.sh
+cat > 2 this is permission testing 
 # Practical 6: Demonstration of chmod, chown and chgrp commands
 # Run karne ke liye: sh practical_06_permissions.sh
 
